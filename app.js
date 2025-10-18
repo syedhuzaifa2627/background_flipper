@@ -1,5 +1,5 @@
 
-let colours =  ["pink" , "red" , "green" , "yellow" , "orange" , "brown" , "darkblue"]
+let colours =  ["pink" , "red" , "green" , "yellow" , "orange" , "brown" , "darkblue" , "purple" , "lightblue" , "grey"]
 
 
 function changingBackgroungColour (){
@@ -9,6 +9,3 @@ function changingBackgroungColour (){
     document.getElementsByTagName("span")[0].innerText = colours[anyNumber]
 }
 
-var design = document.getElementsByTagName("button")[0]
-design.style.backgroundColor = "black"
-design.style.color = "white"
