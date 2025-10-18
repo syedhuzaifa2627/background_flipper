@@ -1,5 +1,9 @@
 
-let colours =  ["pink" , "red" , "green" , "yellow" , "orange" , "brown" , "darkblue" , "purple" , "lightblue" , "grey"]
+let colours =  ["pink" , "red" , "darkgreen" , "yellow" , "orange" , "brown" , "darkblue" , "purple" , "lightblue" , "lightslategray" ,
+    "darkslateblue" , "mediumblue" , "mediumturquoise" , "lightskyblue" , "darkred" , "coral" , "deeppink" , "maroon" , "aliceblue" , 
+    "lavenderblush" , "darkseagreen" , "burlywood" , "mediumslateblue" , "lawngreen" , "aquamarine" , "darkvoilet" , "darkturquoise"
+ 
+]
 
 
 function changingBackgroungColour (){
